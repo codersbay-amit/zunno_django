@@ -1,0 +1,32 @@
+{
+    "logo": "https://res.cloudinary.com/dmubfrefi/image/private/s--y0Ax_FO6--/c_crop,h_2813,w_5000,x_0,y_0/c_scale,w_3840/f_auto/q_auto/v1/dee-about-cms-prod-medias/cf68f541-fc92-4373-91cb-086ae0fe2f88/002-nike-logos-swoosh-white.jpg?_a=BAAAV6Bs",
+    "template":"https://img.pikbest.com/origin/06/13/08/38FpIkbEsT6Hx.jpg!bwr800",
+    "name": "Stride Athletics",
+    "colors": {
+        "primary": "Dodger Blue",
+        "secondary": "Orange Red",
+        "accent": "Gold"
+    },
+    "title_font": "Roboto",
+    "subtitle_font": "Montserrat",
+    "body_font": "Open Sans",
+    "tagline": "Run Your World",
+    "industry": "Footwear",
+    "demographic": "Active individuals aged 18-35",
+    "psychographic": "Fitness enthusiasts and athletes",
+    "audience_interest": "Running, fitness, outdoor activities",
+    "tone_of_voice": "playful",
+    "message_style": "promote",
+    "visual_style": "vibrant",
+    "keywords": {
+        "primary": ["athletic", "running", "comfort"],
+        "secondary": ["style", "performance"]
+    },
+    "cta_required": true,
+    "cta_text": "Shop Now!",
+    "current_campaign": "Spring/Summer Collection 2024",
+    "season": "Spring",
+    "mood": "Energetic",
+    "content_type": "Email Campaign"
+    
+}
